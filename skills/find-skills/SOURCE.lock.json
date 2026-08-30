@@ -1,0 +1,13 @@
+{
+  "files": {
+    "SKILL.md": {
+      "executable": false,
+      "sha256": "c00eeea0e13e74fe4a9d84ba0a8542205a1b736d65f13134fe1a6647eb14976f"
+    }
+  },
+  "mode": "directory",
+  "path": "skills/find-skills",
+  "ref": "main",
+  "repository": "https://github.com/vercel-labs/skills.git",
+  "resolved_revision": "435076e78988e1e6ec40d00b0b1d76bdbbc5419a"
+}

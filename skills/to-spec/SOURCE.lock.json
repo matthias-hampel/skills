@@ -1,0 +1,17 @@
+{
+  "files": {
+    "SKILL.md": {
+      "executable": false,
+      "sha256": "43ad9cf318e5e7d3d1fa360253a37021796dc87a0c2e595ad262661a10f85088"
+    },
+    "agents/openai.yaml": {
+      "executable": false,
+      "sha256": "1c5b4d1e3d8e52287ef19cc2742fdbbfae1914ac75d33af3e4c8174f08cc55bb"
+    }
+  },
+  "mode": "directory",
+  "path": "skills/engineering/to-spec",
+  "ref": "main",
+  "repository": "https://github.com/mattpocock/skills.git",
+  "resolved_revision": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76"
+}

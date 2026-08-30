@@ -1,0 +1,13 @@
+{
+  "files": {
+    "SKILL.md": {
+      "executable": false,
+      "sha256": "72d3b153712ab641875f1d7424de0f77375af1cec03707935f08fa7d8f17bbf3"
+    }
+  },
+  "mode": "directory",
+  "path": "pstack/skills/no-comments",
+  "ref": "main",
+  "repository": "https://github.com/cursor/plugins.git",
+  "resolved_revision": "68836ddaf5697224520f1847d90cdb90ca8babaa"
+}
