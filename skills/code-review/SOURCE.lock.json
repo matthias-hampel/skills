@@ -2,7 +2,7 @@
   "files": {
     "SKILL.md": {
       "executable": false,
-      "sha256": "47f4e52c21694def9c7c11cbfbf891ca35eac7a93e395797515be3c8a409ae50"
+      "sha256": "09eb147f793e4647949edd32dbad278f0554dfb56e0d46b699cd4c2c55bf0357"
     },
     "agents/openai.yaml": {
       "executable": false,
@@ -13,5 +13,5 @@
   "path": "skills/engineering/code-review",
   "ref": "main",
   "repository": "https://github.com/mattpocock/skills.git",
-  "resolved_revision": "6654f6b60cd9d5be8b54c6fafe44346dabeb3b76"
+  "resolved_revision": "49dd158d1076134a641b33efb035946536778336"
 }

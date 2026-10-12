@@ -2,16 +2,16 @@
   "files": {
     "README.md": {
       "executable": false,
-      "sha256": "e86f4b56765fc288859a8a1f3e3814c990ba920b326c40c55667b56d44c58c1e"
+      "sha256": "e8b22f37ccb204bd00cdf98c723c0df37aeda1f5863e9ad1d634f5c839d99e5d"
     },
     "SKILL.md": {
       "executable": false,
-      "sha256": "fec5718a391dd9d8c89746d39e0cc0fa7aa5b50447669a15e44c3244167828c0"
+      "sha256": "415d43518f2b1a9498c15a445d4657117b129ee5e81b19454ce348439cc6672b"
     }
   },
   "mode": "directory",
   "path": "skills/caveman",
   "ref": "main",
   "repository": "https://github.com/JuliusBrussee/caveman.git",
-  "resolved_revision": "df2ccd85c94ec3c8289cb62ac020d241ccfb0c60"
+  "resolved_revision": "2e08b9177c07bb7249a8a2d1a6758e5db281d002"
 }
