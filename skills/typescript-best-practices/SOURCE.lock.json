@@ -2,16 +2,16 @@
   "files": {
     "SKILL.md": {
       "executable": false,
-      "sha256": "df0ecd7518b33778f4b02c2f85ee577bbaea52caa1c49df6816b0594e128bb64"
+      "sha256": "ec1dac086d3708e5940d45d250c30a37dd953b4e3cb2ca0692f5851d7a039e27"
     },
     "references/patterns.md": {
       "executable": false,
-      "sha256": "83d89dd2fdb81021eb18c77c57437f60314a60da79447756a547f08ece64b433"
+      "sha256": "12e70c9419a8b3f5d6a1ab80e272c1f00a43ac0b3bbf72d68199033570e5de77"
     }
   },
   "mode": "directory",
   "path": "pstack/skills/typescript-best-practices",
   "ref": "main",
   "repository": "https://github.com/cursor/plugins.git",
-  "resolved_revision": "68836ddaf5697224520f1847d90cdb90ca8babaa"
+  "resolved_revision": "d457567332aa6989e753ea289f30ea2bfbc80bc0"
 }

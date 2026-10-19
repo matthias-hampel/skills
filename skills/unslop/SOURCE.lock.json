@@ -2,12 +2,12 @@
   "files": {
     "SKILL.md": {
       "executable": false,
-      "sha256": "181883e539caec8258ec9129e3ba5f133409144a2cbf2aa361158ab94cfc3441"
+      "sha256": "ccab208e315ce05e2fab8eeee2f7879f1289b5c6844840b2d307adf31c79144f"
     }
   },
   "mode": "directory",
   "path": "pstack/skills/unslop",
   "ref": "main",
   "repository": "https://github.com/cursor/plugins.git",
-  "resolved_revision": "68836ddaf5697224520f1847d90cdb90ca8babaa"
+  "resolved_revision": "d457567332aa6989e753ea289f30ea2bfbc80bc0"
 }

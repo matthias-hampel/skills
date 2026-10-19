@@ -2,12 +2,12 @@
   "files": {
     "SKILL.md": {
       "executable": false,
-      "sha256": "72d3b153712ab641875f1d7424de0f77375af1cec03707935f08fa7d8f17bbf3"
+      "sha256": "078ecfe224eafbb017f6476870612838bf6dbe38c0b697e12f0c887d0313f17e"
     }
   },
   "mode": "directory",
   "path": "pstack/skills/no-comments",
   "ref": "main",
   "repository": "https://github.com/cursor/plugins.git",
-  "resolved_revision": "68836ddaf5697224520f1847d90cdb90ca8babaa"
+  "resolved_revision": "d457567332aa6989e753ea289f30ea2bfbc80bc0"
 }
